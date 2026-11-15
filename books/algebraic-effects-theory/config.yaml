@@ -4,18 +4,5 @@ topics: ["代数的エフェクト", "圏論", "モナド"]
 published: false
 price: 0
 chapters:
-  - introduction
+  - 00-introduction
   - 01-algebraic-theories
-  - 02-presentations
-  - 03-free-models
-  - 04-monads
-  - 05-computational-effects
-  - 06-algebraic-operations
-  - 07-generic-effects
-  - 08-operations-generic-correspondence
-  - 09-enriched-theory
-  - 10-handlers-raise
-  - 11-effect-theories-get
-  - 12-effect-models
-  - 13-handler-semantics
-  - 14-examples-and-scope
